@@ -4,6 +4,7 @@
 ### Code review
 - [What is code review](https://smartbear.com/learn/code-review/what-is-code-review/)
 - [Code Review](https://en.wikipedia.org/wiki/Code_review)
+- [Best practices fir peer code review](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
 ### Good Code
 - [What does it mean to write good code](https://softwareengineering.stackexchange.com/questions/17443/what-does-it-mean-to-write-good-code)
 - [How do you define code quality](https://www.quora.com/How-do-you-define-code-quality)
@@ -62,6 +63,4 @@ The attributes of good code:
 
 **13. How often do you refactor code? What are the reasons which force you to refactor code?**  
 
-**14. Imagine the situation that you come to an existing project and see no coding guidelines established there and see issues coming out of this. What would you do?**  
-
-**15. Exactly what kind of documentations did you create for your project?**  
+**14. Exactly what kind of documentations did you create for your project?**  
